@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cdcb2b899d8a8942b251f39b4f3e9b9
+timeCreated: 1470668548
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Ball: {fileID: 139010, guid: 5ab02aa997d10314b969d3dcab0bda74, type: 2}
+  - LeftPaddle: {fileID: 188002, guid: 1735b8396bbdf12478460334c2ca0ac5, type: 2}
+  - RightPaddle: {fileID: 109178, guid: 6d15dd2779c2a1444b2fe511e65fee32, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongNoPhysics.CSharp.Plugins", "PongNoPhysics.CSharp.Plugins.csproj", "{920C7735-7C6A-E59F-5F51-2343A36CDDB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongNoPhysics.CSharp", "PongNoPhysics.CSharp.csproj", "{C36388F1-8595-231E-A16A-2A4C316411E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongNoPhysics.CSharp.Editor", "PongNoPhysics.CSharp.Editor.csproj", "{EB142B1B-1D05-641A-E34E-36561E1B5C60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{920C7735-7C6A-E59F-5F51-2343A36CDDB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{920C7735-7C6A-E59F-5F51-2343A36CDDB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{920C7735-7C6A-E59F-5F51-2343A36CDDB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{920C7735-7C6A-E59F-5F51-2343A36CDDB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36388F1-8595-231E-A16A-2A4C316411E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36388F1-8595-231E-A16A-2A4C316411E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36388F1-8595-231E-A16A-2A4C316411E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36388F1-8595-231E-A16A-2A4C316411E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB142B1B-1D05-641A-E34E-36561E1B5C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB142B1B-1D05-641A-E34E-36561E1B5C60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB142B1B-1D05-641A-E34E-36561E1B5C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB142B1B-1D05-641A-E34E-36561E1B5C60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
