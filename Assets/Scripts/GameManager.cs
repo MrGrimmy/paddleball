@@ -51,6 +51,7 @@ public class GameManager : MonoBehaviour
         leftScore.text = leftPaddleScore.ToString();
         rightScore.text = rightPaddleScore.ToString();
         string test = "test";
+        int testint = 1;
     }
     void Update()
     {
