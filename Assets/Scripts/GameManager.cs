@@ -50,7 +50,7 @@ public class GameManager : MonoBehaviour
             rightPaddleScore = ++rightPaddleScore;
         leftScore.text = leftPaddleScore.ToString();
         rightScore.text = rightPaddleScore.ToString();
-        int testInt = 0;
+        int testInt = 2;
     }
     void Update()
     {
